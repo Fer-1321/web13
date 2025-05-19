@@ -1,0 +1,50 @@
+body,html{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+    width: 100vw;
+    display: grid;
+    justify-content: right
+    ;
+    align-items: center;
+    background: url(tecnologias-informacion-980x638.jpg) center center;
+    background-size: cover;
+}
+.contenedor{
+    text-align: center;
+    padding: 10px;
+    background-color: #3fd2f0;
+    border-radius:  10px;
+    box-shadow: 0 4px 8px rgba(46, 169, 226, 0.1);
+}
+
+.boton-redireccion{
+    background-color: #52403d;
+    color: white;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.boton-redireccion:hover{
+    background-color: #ff4f3b;
+}
+
+.header-content{
+    padding: 50px;
+    background-color: rgb(245, 248, 87);
+    display: rgb(235, 185, 24);
+    margin-top: 100px;
+    border-radius: 100px;
+    text-decoration: solid;
+}
+
+ .type-comentarios{
+    padding: 50px;
+    background-color: aqua;
+    color: aqua;
+    display: flex;
+    margin-top: 30px;
+    border: 40;
+    text-decoration: none;
+ }
